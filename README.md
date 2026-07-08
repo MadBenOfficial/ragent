@@ -2,6 +2,10 @@
 
 Ritual-native autonomous agent builder.
 
+**Live app:** https://madbenofficial.github.io/ragent/
+
+**Controller (Ritual Chain 1979):** `0xACf178AFDc9Bdd29Bd5996aB53c33B4b41A6c448`
+
 The app now includes the first real integration layer:
 
 - Ritual Chain config for chain ID `1979`
