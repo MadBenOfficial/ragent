@@ -18,12 +18,12 @@ This controller currently handles:
 The controller itself does not call `SovereignAgentFactory` or `PersistentAgentFactory` launch functions.
 The frontend can submit a guarded Sovereign compressed launch directly through `SovereignAgentFactory.launchSovereignCompressed` after preflight, encrypted secrets, delegate access, non-zero funding, and explicit wallet confirmation.
 
-Current v2 deployment on Ritual:
+Current deployment on Ritual (Chain `1979`):
 
-- `RAgentController`: `0xAEF0Fdb73F1728D4Fa48caC8620e454bccC294c9`
-- Deploy tx: `0x431faad309db32a8705020e3a4e28a1940293ce777abbdcd8092dfaccafaa4a4`
-- Deploy block: `40188451`
-- Gas used: `2014685`
+- `RAgentController`: `0xACf178AFDc9Bdd29Bd5996aB53c33B4b41A6c448`
+- Deploy tx: `0x232860771cb497fb8b4d6f81fa2e08f900a33429d1827c885cf3893ffaa4b5ad`
+- Deploy block: `43257100`
+- Contract version: `2`
 
 ## Security Properties Covered
 
